@@ -1,0 +1,26 @@
+.header{
+    height: 200px;
+    background: #0d0d0d;
+    display: flex;
+    margin-right: 125px;
+    width: 1920px;
+    align-items: center;
+    justify-content: center;
+}
+.header-logo{
+    display: flex;
+    align-items: center;
+}
+.header-logo h1{
+    font-size: 40px;
+    font-weight: 900;
+    color: #4EA8DE;
+}
+.header-logo h1 span{
+    font-size: 40px;
+    font-weight: 900;
+    color: #5E60CE;
+}
+.header-logo img{
+   scale: 0.4;
+}

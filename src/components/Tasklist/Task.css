@@ -1,0 +1,12 @@
+.task-check{
+    width: 18px;
+    height: 18px;
+    display: block;
+    border-radius: 100%;
+    background-color: transparent;
+    border: 1px solid #4ea8de;
+}
+.task-check .completed{
+    background-color: #5e60ce;
+    border-color: #5e60ce;
+}
